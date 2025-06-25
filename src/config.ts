@@ -5,8 +5,8 @@ export const SITE: Site = {
   author: "Debdash Mistry",
   desc: "বাঙলাপাঠ সামান্যপাঠ-প্রভাবিত একটি কর্মশালা। এর উদ্দেশ্য বাঙলার ভাষা, শিল্প, ভূপ্রকৃতি, জনপদ, নৃসংস্থান, লোকাচার, পুরাকীর্তি ও ইতিহাসের একটি নির্ভরযোগ্য পাঠ নির্মাণে সহায়ক ভূমিকা রাখা। কোনোপ্রকার জাতীয়তাবাদের উগ্রতা, আগ্রাসন বা উন্নাসিকতা উসকে দেওয়া এই কর্মশালার লক্ষ্য নয়।",
   title: "বাঙলাপাঠ",
-  ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: true,
+  ogImage: "default-og.png",
+  lightAndDarkMode: false,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
@@ -17,8 +17,8 @@ export const LOCALE = {
 } as const;
 
 export const LOGO_IMAGE = {
-  enable: false,
-  svg: true,
+  enable: true,
+  svg: false,
   width: 216,
   height: 46,
 };
