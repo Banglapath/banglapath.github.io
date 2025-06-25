@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://banglapath.github.io", // replace this with your deployed domain
   author: "Debdash Mistry",
-  desc: "",
+  desc: "বাঙলাপাঠ সামান্যপাঠ-প্রভাবিত একটি কর্মশালা। এর উদ্দেশ্য বাঙলার ভাষা, শিল্প, ভূপ্রকৃতি, জনপদ, নৃসংস্থান, লোকাচার, পুরাকীর্তি ও ইতিহাসের একটি নির্ভরযোগ্য পাঠ নির্মাণে সহায়ক ভূমিকা রাখা। কোনোপ্রকার জাতীয়তাবাদের উগ্রতা, আগ্রাসন বা উন্নাসিকতা উসকে দেওয়া এই কর্মশালার লক্ষ্য নয়।",
   title: "বাঙলাপাঠ | Banglapath",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -28,11 +28,11 @@ export const SOCIALS: SocialObjects = [
     name: "Github",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: ` ${SITE.title} on Github`,
-    active: true,
+    active: false,
   },
   {
     name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://facebook.com/banglapath.org",
     linkTitle: `${SITE.title} on Facebook`,
     active: true,
   },
@@ -40,19 +40,19 @@ export const SOCIALS: SocialObjects = [
     name: "Instagram",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:mail.banglapath@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitter",
