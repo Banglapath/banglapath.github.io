@@ -3,7 +3,7 @@ author: Debdash Mistry
 pubDatetime: 2025-06-26
 modDatetime: 2025-06-26
 title: Svaragāna
-slug: Svaragaana
+slug: svaragaana
 featured: false
 draft: false
 tags:
