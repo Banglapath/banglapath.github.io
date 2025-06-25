@@ -3,8 +3,11 @@ author: Debdash Mistry
 pubDatetime: 2025-06-26
 modDatetime: 2025-06-26
 title: Svaragāna
+slug: Svaragaana
 featured: false
 draft: false
+tags:
+  - music
 ---
 I might sound queer; but to me, singing or playing or listening to a piece of music is somewhat synonymous with crying– crying for somebody or something not clearly made out– somebody or something our hearts ache for but perception fails to reach. If the gap between the singing souls and the sung \[celebrated\] collapses, ART disappears and things fall mundane. True, mundanity is never less valuable. Rather, it ignites our thirst for invaluable BEAUTY, and in return, BEAUTY releases our pent-up emotions and gives back to us a serene mundanity.
 
