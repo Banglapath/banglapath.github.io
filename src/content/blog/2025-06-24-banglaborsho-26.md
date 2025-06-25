@@ -1,5 +1,4 @@
 ---
-author: বাঙলাপাঠ
 pubDatetime: 2025-06-24
 modDatetime: 2025-06-24
 title: পঞ্জিকা | বাঙলাবর্ষ ২৬
