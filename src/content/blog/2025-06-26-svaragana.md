@@ -1,7 +1,7 @@
 ---
 author: Debdash Mistry
-pubDatetime: 2025-06-26
-modDatetime: 2025-06-26
+pubDatetime: 2025-06-25
+modDatetime: 2025-06-25
 title: Svaragāna
 slug: svaragaana
 featured: false
