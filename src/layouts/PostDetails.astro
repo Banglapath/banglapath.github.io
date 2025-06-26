@@ -8,6 +8,7 @@ import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@utils/slugify";
 import ShareLinks from "@components/ShareLinks.astro";
 import { SITE } from "@config";
+import { Disqus } from "astro-disqus";
 
 export interface Props {
   post: CollectionEntry<"blog">;
@@ -97,6 +98,7 @@ const layoutProps = {
       </button>
 
       <ShareLinks />
+      <Disqus embed="https://banglapath.disqus.com/embed.js" />
     </div>
   </main>
   <Footer />
